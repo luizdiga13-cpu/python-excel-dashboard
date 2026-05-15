@@ -1,0 +1,23 @@
+
+---
+
+# 📁 .gitignore
+
+```gitignore id="5syy7d"
+# Cache Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Banco de dados
+database/*.db
+
+# Arquivos temporários
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
